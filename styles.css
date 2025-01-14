@@ -1,0 +1,34 @@
+* {
+    position: relative;
+    text-align: center;
+    padding: 0.25em 0;
+    margin: 0;
+    background-color: rgb(43, 75, 111);
+  }
+  
+  h1 {
+    font-family: system-ui;
+    font-size: 2.5rem;
+    margin-top: 75px;
+    color: rgb(199, 210, 223);
+  }
+  /* h2{
+    font-family: system-iu;
+    font-size: 2.3rem;
+  } */
+  #translationDisplay{
+    color: rgb(250, 246, 247);
+    display: flex;
+    font-family: system-ui;
+    font-size: 2rem;
+     
+  }
+  
+  button {
+    border-radius: 8.5px;
+    background: rgb(4, 29, 55);
+    font-family: system-ui;
+    color: rgb(150, 153, 184);
+    font-size: 1.5rem;
+    padding: 5px 10px;
+  }
