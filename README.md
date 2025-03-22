@@ -11,6 +11,8 @@ I wanted to make this app interactive. The code stores a set of English medical 
 
 ## Optimizations
 
+I want to build a Barnav
+
 Eventually, I want to implement an language API that translates to other languagues, not just Spanish.
 
 ## Lessons Learned
