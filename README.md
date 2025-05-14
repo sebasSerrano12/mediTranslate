@@ -1,5 +1,5 @@
 # MediTranslate
-MediTranslate is an app that handles triage questions for healthcare professionals. It simplifies communication with Spanish-speaking patients. It ensures accurate and efficient translation between medical personnel and Spanish-speaking
+MediTranslate is an app that handles triage questions for healthcare professionals. It simplifies communication with Spanish-speaking patient and ensures accurate and efficient translation between medical personnel and Spanish-speaking
  patients, bridging the language barrier in healthcare settings and expediting services
 
 https://codepen.io/sebastianSerrano/pen/oNOWvBg
